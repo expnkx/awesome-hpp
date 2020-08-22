@@ -264,6 +264,9 @@
 | [color-util](https://github.com/yuki-koyama/color-util) | [![GitHub stars](https://img.shields.io/github/stars/yuki-koyama/color-util?style=social)](https://github.com/yuki-koyama/color-util/stargazers/) | Colors, Color space converters for RGB, HSL, XYZ, Lab, etc. | [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) |
 | [nanopm](https://github.com/unclearness/nanopm) | [![GitHub stars](https://img.shields.io/github/stars/unclearness/nanopm?style=social)](https://github.com/unclearness/nanopm/stargazers/) | NanoPM, single header only PatchMatch. | |
 
+## IO
+| [fast_io](https://github.com/expnkx/fast_io) | [![GitHub stars](https://img.shields.io/github/stars/unclearness/nanopm?style=social)] | I/O library to replace stdio.h and iostream |
+
 ## Language Bindings
 
 | Library  | Stars |  Description | License  |
